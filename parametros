@@ -1,0 +1,23 @@
+funcao polinomial positiva
+
+c * (x^expoente)
+
+grafocondutividade0:
+
+expoente = 1.1
+time step = 0.1
+steps = 100
+
+
+grafocondutividade1:
+
+expoente = 0.5
+time step = 0.05
+steps = 200
+
+
+grafocondutividade2:
+
+expoente = 1.1
+time step = 0.01
+steps = 1000
